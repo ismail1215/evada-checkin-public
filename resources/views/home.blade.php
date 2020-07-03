@@ -76,7 +76,7 @@ body {
         <div class="col-md-6 mx-auto text-center p-4">
             <img src="{{url('img/logo-evada.png')}}">
             <br>
-            <p>Welcome to Evada Solutions Sdn Bhd.<br>In line with the government SOP to curb the spread of Covid-19.</p>
+            <p>Welcome to Evada Solutions Sdn Bhd.<br>In line with the government SOP to curb the spread of Covid-19.jerangkung</p>
         </div>
     </div>
     <div class="row">
